@@ -8,5 +8,6 @@ All our data came from the UK parliament website and used a scraping tool called
 [URL](https://commonslibrary.parliament.uk/research-briefings/cbp-7529/)of members of the House of Commons and various parties from 1918 to 2019.  
 
 ## Analysis
+We mainly used R to analyze the data and the raw version can be found [here](https://github.com/joannazhou225/AIDM7410/tree/main/Code)  
 For the rendered version of our data analysis, please check [our Rpubs homepage](https://rpubs.com/miya666/Group_project7410)
 
